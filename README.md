@@ -1,5 +1,7 @@
 # Deploy and Host Metabase on Railway
 
+> **Updated May 2026** — Pinned to Metabase v0.59.12 and extended healthcheck timeout for reliable deployments.
+
 Metabase is an open-source business intelligence and data analytics platform. It lets your team explore data, build interactive dashboards, and share insights without writing SQL — connecting directly to your databases and providing an intuitive interface for data-driven decision making across the organization.
 
 ## About Hosting Metabase
